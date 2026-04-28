@@ -1,1 +1,1 @@
-print "this is the content form seconf file .py PYTHON "
+print ("this is the content form seconf file .py PYTHON" )
